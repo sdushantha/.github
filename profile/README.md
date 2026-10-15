@@ -1,1 +1,3 @@
-<img src="https://i.imgur.com/42TdGll.gif">
+<div align="center">
+<img src="https://assets.sherlockproject.xyz/duck.gif">
+</div>
